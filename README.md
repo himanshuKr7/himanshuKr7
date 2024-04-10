@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @himanshuKr7 a BTech Student 
+- 👋 Hi, I’m @himanshuKr7 a BTech Student at Silicon Institute Of Technology,BBSR.
 - 👀 I’m interested about new technologies currently being use in industries.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 📫 How to reach me-->
--  my email :
+-  My E-Mail :
   https://mailto@himanshu7277069@gmail.com
--  connect with me on linkedin:
+-  Connect with me on linkedin:
   https://www.linkedin.com/in/himanshu-kumar-06a42222b/
 
 
